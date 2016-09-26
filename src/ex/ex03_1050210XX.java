@@ -12,6 +12,7 @@ public class ex03_1050210XX {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-	}
-
-}
+		int h =(15*60+20)-(10*60+23);
+		int b =60*2;
+		int a =60*4;
+		System.out.print(b/30*30+b/30*40+(h-a)/30*60+"元");}}
