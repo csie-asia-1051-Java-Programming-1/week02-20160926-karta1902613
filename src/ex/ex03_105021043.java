@@ -7,7 +7,7 @@ package ex;
  * Author: 1050210XX 周永振老師
  */
 
-public class ex03_1050210XX {
+public class ex03_105021043 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
